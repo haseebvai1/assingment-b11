@@ -1,0 +1,123 @@
+
+
+
+
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.bodyy{
+  background-color: rgb(245, 245, 245);
+  
+ }
+.heading-sing{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+  .banner{
+   background-color: rgb(198, 228, 214);
+   width:1280px ;
+   height:560px ;
+   border-radius: 24px;
+  
+  }
+
+  .banner-contain{
+   position: relative;
+   top: 117px;
+   left: 60px;
+    
+  }
+
+  .bangladesh-2{
+    font-weight: 500;
+    font-size: 24px;
+    color:rgba(14, 14, 14, 0.5) ;
+  }
+
+  .paragraph{
+    font-weight: 700;
+    font-size: 56px;
+    color: rgb(14, 14, 14);
+  }
+
+  .ex-btn{
+    
+    
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    border: none;
+    background-color: rgb(0, 106, 80);
+    border-radius: 8px;
+    width: 270px;
+    height: 56px;
+
+  }
+
+  .image{
+    position: absolute;
+    top: 8px;
+    bottom: 80px;
+    right: 60px;
+    left: 670px;
+    width: 474px;
+    height: 400px;
+  }
+
+  main{
+    max-width:1280px;
+    margin: 0 auto;
+  }
+
+  .main-card{
+    display: flex;
+    gap: 24px;
+  }
+
+  .card{
+    width: 302px;
+    height: 244px;
+     padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  }
+
+  .quta{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    border-radius: 16px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  }
+
+  .quta-p{
+    font-size: 16px;
+  }
+
+  .name{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(14, 14, 14, 0.8);
+  }
+
+  table{
+    width: 1280px;
+    height: 490px;
+    border-collapse: collapse;
+  }
+
+td, th{
+  border: 1px solid rgba(123, 119, 119, 0.184);
+}
+
+/* .taable{
+  background-color: rgb(255, 255, 255);
+  padding: 16px;
+} */
